@@ -4,7 +4,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > Light Pilot",
-    "description": "This handy tool gives you the freedom to control your lights like camera. This feature is inspired from Light Piloting inside Unreal Engine.",
+    "description": "This handy tool gives you the freedom to control your lights like a camera, while updating in realtime. This feature is inspired from Light Piloting inside Unreal Engine.",
     "category": "Lighting",
 }
 
