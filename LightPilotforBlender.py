@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Light Pilot",
-    "author": "Buttercup Visuals//Mridul Sarmah",
+    "author": "//Mridul Sarmah",
     "version": (1, 0),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > Light Pilot",
